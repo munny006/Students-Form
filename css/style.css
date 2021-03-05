@@ -1,0 +1,13 @@
+.fontsize{
+	font-size: 20px;
+margin-bottom: -11px;
+}
+.foontcolor{
+	font-size: 23px;
+	margin-top: -2px;
+	color: white;
+}
+.foontcolor:hover{
+
+color: white;
+text-decoration: none;}
